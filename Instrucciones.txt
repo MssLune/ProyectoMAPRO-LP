@@ -1,0 +1,4 @@
+1.- Agregar el server Apache Tomcat 7.0
+2.- Importar el archivo war 
+3.- En caso haya error realizar los siguientes pasos: Project Properties → Java Build Path → Add Library → Select "Server Runtime" from the list* → Next → Select "Apache Tomcat" → Finish
+3.- Actualizar las librerias en caso salga error nuevamente.
